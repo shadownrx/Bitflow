@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "services": "Servicios",
+    "portfolio": "Portafolio",
+    "about": "Nosotros",
+    "contact": "Contáctanos"
+  },
+  "hero": {
+    "title": "Creamos Experiencias Digitales Que Importan",
+    "subtitle": "BitFlow Studio se especializa en diseñar y desarrollar aplicaciones móviles y web excepcionales que impulsan resultados para nuestros clientes.",
+    "cta": {
+      "portfolio": "Ver Nuestro Trabajo",
+      "services": "Nuestros Servicios"
+    }
+  }
+}
